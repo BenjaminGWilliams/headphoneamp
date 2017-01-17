@@ -1,0 +1,10 @@
+AC POWER SUPPLY
+Find 470uF 35V caps
+Find 163-7620-E equivalent
+Find 220nF caps
+Find Battery clips SMD
+
+POWER MANAGEMENT
+Find LED
+Find 40.2K resistor
+Check to see if FQD10N20C suitable replacement for FQPF10N20. If so, create footprint

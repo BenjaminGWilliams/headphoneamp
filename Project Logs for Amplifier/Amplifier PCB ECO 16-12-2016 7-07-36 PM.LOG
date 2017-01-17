@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=V+ Pin=C9-2
+Removed Pin From Net: NetName=NetD7_2 Pin=U1-5
+Removed Pin From Net: NetName=NetR4_1 Pin=U1-6
+Removed Pin From Net: NetName=NetC21_2 Pin=U1-7
+Removed Pin From Net: NetName=NetR4_1 Pin=U2-1
+Removed Pin From Net: NetName=NetC1_1 Pin=U2-2
+Removed Pin From Net: NetName=NetD7_2 Pin=U2-3
+Added Component: Designator=C17(CAPC1608L)
+Added Component: Designator=U2(NJM2903M)
+Added Pin To Net: NetName=V- Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=V+ Pin=C9-2
+Added Pin To Net: NetName=NetC11_2 Pin=U1-5
+Added Pin To Net: NetName=NetC19_1 Pin=U1-6
+Added Pin To Net: NetName=NetC19_2 Pin=U1-7
+Added Pin To Net: NetName=NetR4_1 Pin=U2-1
+Added Pin To Net: NetName=NetC1_1 Pin=U2-2
+Added Pin To Net: NetName=NetD7_2 Pin=U2-3
+Added Pin To Net: NetName=NetD7_2 Pin=U1-5
+Added Pin To Net: NetName=NetR4_1 Pin=U1-6
+Added Pin To Net: NetName=NetC21_2 Pin=U1-7
+Added Member To Class: ClassName=Power Management Member=Component C17 220nF

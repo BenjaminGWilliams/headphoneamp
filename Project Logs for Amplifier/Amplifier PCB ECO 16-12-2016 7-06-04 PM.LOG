@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=V+ Pin=C9-2
+Removed Pin From Net: NetName=NetD7_2 Pin=U1-5
+Removed Pin From Net: NetName=NetR4_1 Pin=U1-6
+Removed Pin From Net: NetName=NetR4_1 Pin=U2-1
+Removed Pin From Net: NetName=NetC1_1 Pin=U2-2
+Removed Pin From Net: NetName=NetD7_2 Pin=U2-3
+Removed Member From Class: ClassName=Power Management Member=C11
+Removed Member From Class: ClassName=Main Member=C18
+Removed Member From Class: ClassName=Power Management Member=C20
+Removed Member From Class: ClassName=Power Management Member=R21
+Removed Member From Class: ClassName=Power Management Member=R22
+Removed Member From Class: ClassName=Main Member=R25
+Added Component: Designator=C17(CAPC1608L)
+Added Component: Designator=U2(NJM2903M)
+Added Pin To Net: NetName=V- Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=V+ Pin=C9-2
+Added Pin To Net: NetName=NetC11_2 Pin=U1-5
+Added Pin To Net: NetName=NetC19_1 Pin=U1-6
+Added Pin To Net: NetName=NetR4_1 Pin=U2-1
+Added Pin To Net: NetName=NetC1_1 Pin=U2-2
+Added Pin To Net: NetName=NetD7_2 Pin=U2-3
+Added Pin To Net: NetName=NetD7_2 Pin=U1-5
+Added Pin To Net: NetName=NetR4_1 Pin=U1-6
+Added Pin To Net: NetName=NetC21_2 Pin=U1-7
+Added Member To Class: ClassName=Power Management Member=Component C1 1uF
+Added Member To Class: ClassName=Power Management Member=Component C10 220nF
+Added Member To Class: ClassName=Main Member=Component C11 220pF
+Added Member To Class: ClassName=Main Member=Component C12 220pF
+Added Member To Class: ClassName=Main Member=Component C13 2.2uF
+Added Member To Class: ClassName=Main Member=Component C14 2.2uF
+Added Member To Class: ClassName=Power Management Member=Component C16 220nF
+Added Member To Class: ClassName=Power Management Member=Component C17 220nF
+Added Member To Class: ClassName=Power Management Member=Component C21 220nF
+Added Member To Class: ClassName=Main Member=Component R3 0R
+Added Member To Class: ClassName=Main Member=Component R7 0R
+Added Member To Class: ClassName=Main Member=Component R18 0R
+Added Member To Class: ClassName=Power Management Member=Component R24 270K
+Added Member To Class: ClassName=Power Management Member=Component R25 1M5
+Added Member To Class: ClassName=Main Member=Component U3 NJM4556AM

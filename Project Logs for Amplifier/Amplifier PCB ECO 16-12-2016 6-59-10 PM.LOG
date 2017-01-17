@@ -1,0 +1,234 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=NetC7_2 Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=V+ Pin=C9-2
+Removed Pin From Net: NetName=V- Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=NetC21_2 Pin=C21-2
+Removed Pin From Net: NetName=GND Pin=C??-1
+Removed Pin From Net: NetName=GND Pin=C??-2
+Removed Pin From Net: NetName=GND Pin=H?-2
+Removed Pin From Net: NetName=GND Pin=H?-2
+Removed Pin From Net: NetName=GND Pin=J?-1
+Removed Pin From Net: NetName=NetD1_1 Pin=J?-3
+Removed Pin From Net: NetName=NetD1_1 Pin=J?-4
+Removed Pin From Net: NetName=NetC7_1 Pin=Q1-1
+Removed Pin From Net: NetName=NetC7_1 Pin=R3-2
+Removed Pin From Net: NetName=NetC7_2 Pin=R6-1
+Removed Pin From Net: NetName=NetC7_2 Pin=R8-2
+Removed Pin From Net: NetName=NetC21_2 Pin=R25-2
+Removed Pin From Net: NetName=NetC14_1 Pin=U1-2
+Removed Pin From Net: NetName=NetC21_2 Pin=U3-1
+Removed Pin From Net: NetName=NetC21_1 Pin=U3-2
+Removed Pin From Net: NetName=NetC19_2 Pin=U3-3
+Removed Pin From Net: NetName=NetC16_2 Pin=U3-5
+Removed Pin From Net: NetName=NetC17_1 Pin=U3-6
+Removed Pin From Net: NetName=NetC17_2 Pin=U3-7
+Removed Pin From Net: NetName=GND Pin=U?-2
+Removed Pin From Net: NetName=GND Pin=U?-2
+Removed Member From Class: ClassName=AC Power Supply Member=C1
+Removed Member From Class: ClassName=Power Management Member=C7
+Removed Member From Class: ClassName=Power Management Member=C11
+Removed Member From Class: ClassName=Power Management Member=C12
+Removed Member From Class: ClassName=AC Power Supply Member=C??
+Removed Member From Class: ClassName=AC Power Supply Member=H?
+Removed Member From Class: ClassName=AC Power Supply Member=J?
+Removed Member From Class: ClassName=Power Management Member=R3
+Removed Member From Class: ClassName=Main Member=R24
+Removed Member From Class: ClassName=Main Member=U3
+Removed Member From Class: ClassName=AC Power Supply Member=U?
+Change Component DesignItemId : Designator=C7 Old DesignItemId=CC_1uF_0603 New DesignItemId=CC_220nF_0603
+Change Component DesignItemId : Designator=C9 Old DesignItemId=CC_220nF_0603 New DesignItemId=CA_100uF_16V
+Change Component DesignItemId : Designator=D1 Old DesignItemId=DR_BAS16TT1G New DesignItemId=DS_SS14E3
+Change Component DesignItemId : Designator=D3 Old DesignItemId=DS_SS14E3 New DesignItemId=DR_BAS16TT1G
+Change Component DesignItemId : Designator=J1 Old DesignItemId=Phonejack2 TN New DesignItemId=JP_1613 14
+Change Component DesignItemId : Designator=R6 Old DesignItemId=RS_240K New DesignItemId=RS_43K
+Change Component DesignItemId : Designator=R8 Old DesignItemId=RS_240K New DesignItemId=RS_270K
+Change Component Footprint: Designator=C9 Old Footprint=CAPC1608L New Footprint=UUQ1E221MCL1GS
+Change Component Footprint: Designator=D3 Old Footprint=DIOM4227X23N New Footprint=S1BB-13-F
+Change Component Footprint: Designator=J1 Old Footprint=JACK/6-V3A New Footprint=1613_14
+Change Component Footprint: Designator=C8 Old Footprint=NICH-1 New Footprint=UUQ1E221MCL1GS
+Change Component Footprint: Designator=U2 Old Footprint=NJM4556AM New Footprint=NJM2903M
+Change Component Footprint: Designator=U4 Old Footprint=NJM4556AM New Footprint=NJM2903M
+Change Component Footprint: Designator=S1 Old Footprint=PN22SJSA03QE New Footprint=PN22SJSA03QE - duplicate
+Change Component Comment : Designator=C7 Old Comment=1uF New Comment=220nF
+Change Component Comment : Designator=C8 Old Comment=100uF/16V New Comment=220uF/25V
+Change Component Comment : Designator=J1 Old Comment=163-7620-E New Comment=Power Skt
+Change Component Comment : Designator=C9 Old Comment=220nF New Comment=220uF/25V
+Change Component Comment : Designator=R6 Old Comment=240K New Comment=40.2K
+Change Component Comment : Designator=R8 Old Comment=240K New Comment=270K
+Change Component Comment : Designator=DL1 Old Comment=Blue New Comment=H-E RED
+Change Component Comment : Designator=Q2 Old Comment=FQD10N20C New Comment=FQD10N20CTM
+Change Component Comment : Designator=Q1 Old Comment=FQU17P06TU New Comment=FQD17P06TM
+Change Component Comment : Designator=D1 Old Comment=S1BB-13-F New Comment=SS14-E3/5AT
+Change Component Comment : Designator=D3 Old Comment=SS14-E3/5AT New Comment=S1BB-13-F
+Change Component Designator: OldDesignator=C10 NewDesignator=C15
+Change Component Designator: OldDesignator=C11 NewDesignator=C10
+Change Component Designator: OldDesignator=C13 NewDesignator=C18
+Change Component Designator: OldDesignator=C14 NewDesignator=C1
+Change Component Designator: OldDesignator=C16 NewDesignator=C11
+Change Component Designator: OldDesignator=C18 NewDesignator=C13
+Change Component Designator: OldDesignator=C19 NewDesignator=C12
+Change Component Designator: OldDesignator=C20 NewDesignator=C14
+Change Component Designator: OldDesignator=C21 NewDesignator=C20
+Change Component Designator: OldDesignator=DL1 NewDesignator=D7
+Change Component Designator: OldDesignator=H1 NewDesignator=P2
+Change Component Designator: OldDesignator=H2 NewDesignator=P1
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R4
+Change Component Designator: OldDesignator=R7 NewDesignator=R9
+Change Component Designator: OldDesignator=R9 NewDesignator=R25
+Change Component Designator: OldDesignator=R10 NewDesignator=R7
+Change Component Designator: OldDesignator=R11 NewDesignator=R10
+Change Component Designator: OldDesignator=R12 NewDesignator=R14
+Change Component Designator: OldDesignator=R13 NewDesignator=R12
+Change Component Designator: OldDesignator=R15 NewDesignator=R17
+Change Component Designator: OldDesignator=R16 NewDesignator=R11
+Change Component Designator: OldDesignator=R17 NewDesignator=R19
+Change Component Designator: OldDesignator=R18 NewDesignator=R21
+Change Component Designator: OldDesignator=R19 NewDesignator=R23
+Change Component Designator: OldDesignator=R20 NewDesignator=R15
+Change Component Designator: OldDesignator=R21 NewDesignator=R13
+Change Component Designator: OldDesignator=R22 NewDesignator=R3
+Change Component Designator: OldDesignator=R23 NewDesignator=R20
+Change Component Designator: OldDesignator=R24 NewDesignator=R18
+Change Component Designator: OldDesignator=R25 NewDesignator=R22
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Change Component Description : Designator=C7 Old Description=CAP CER 1uF Y5V -20% +80% 16V 0603 New Description=CAP CER 220nF Y5V -20% +80% 25V 0603
+Change Component Description : Designator=D1 Old Description=Diode Switching, Vr 75V, 200mA, SOT-416 New Description=DIODE, SCHOTTKY, 1A, 40V, DO-214AC
+Change Component Description : Designator=Q1 Old Description=MOSFET -60V Single New Description=P-Channel 60V 12A (Tc) 2.5W (Ta), 44W (Tc) Surface Mount D-Pak
+Change Component Description : Designator=R6 Old Description=RES 240K OHM 1/10W 5% 0603 SMD New Description=RES 43K OHM 1/10W 5% 0603 SMD
+Change Component Description : Designator=R8 Old Description=RES 240K OHM 1/10W 5% 0603 SMD New Description=RES 270K OHM 1/10W 5% 0603 SMD
+Change Component Library : Designator=D1 Old Library=ECE Components_15_8.IntLib New Library=ECE Components_16_2.IntLib
+Added Component: Designator=BT1(SD-53398-0219)
+Added Component: Designator=BT2(SD-53398-0219)
+Added Component: Designator=C2(EEE-FK1V471SP)
+Added Component: Designator=C3(EEE-FK1V471SP)
+Added Component: Designator=C4(EEE-FK1V471SP)
+Added Component: Designator=C5(EEE-FK1V471SP)
+Added Component: Designator=C6(CAPC1608L)
+Added Component: Designator=C16(CAPC1608L)
+Added Component: Designator=C17(CAPC1608L)
+Added Component: Designator=C21(CAPC1608L)
+Added Component: Designator=R24(RESC1608L)
+Added Component: Designator=U2(NJM2903M)
+Added Component: Designator=U5(MC7812CDTRKG)
+Added Component: Designator=U6(MC7812CDTRKG)
+Added Pin To Net: NetName=GND Pin=BT1-2
+Added Pin To Net: NetName=GND Pin=BT2-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=V- Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=NetC7_2 Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=V+ Pin=C9-2
+Added Pin To Net: NetName=NetC7_2 Pin=C21-1
+Added Pin To Net: NetName=NetC21_2 Pin=C21-2
+Added Pin To Net: NetName=NetD1_1 Pin=D2-1
+Added Pin To Net: NetName=NetC7_1 Pin=D5-1
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=NetC21_2 Pin=Q2-1
+Added Pin To Net: NetName=NetC7_2 Pin=Q2-3
+Added Pin To Net: NetName=NetD1_1 Pin=R1-1
+Added Pin To Net: NetName=NetC7_2 Pin=R6-2
+Added Pin To Net: NetName=NetC7_2 Pin=R8-1
+Added Pin To Net: NetName=NetC21_2 Pin=R8-2
+Added Pin To Net: NetName=NetC21_2 Pin=R25-2
+Added Pin To Net: NetName=NetC21_1 Pin=U1-2
+Added Pin To Net: NetName=NetC19_2 Pin=U1-3
+Added Pin To Net: NetName=NetC16_2 Pin=U1-5
+Added Pin To Net: NetName=NetC17_1 Pin=U1-6
+Added Pin To Net: NetName=NetC17_2 Pin=U1-7
+Added Pin To Net: NetName=NetC14_1 Pin=U2-2
+Added Pin To Net: NetName=NetC21_2 Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U6-2
+Added Pin To Net: NetName=NetC7_1 Pin=U6-3
+Change Net Name : Old Net Name=NetC7_2 New Net Name=PW2
+Change Net Name : Old Net Name=NetC10_1 New Net Name=PW1
+Change Net Name : Old Net Name=NetC14_1 New Net Name=NetC1_1
+Change Net Name : Old Net Name=NetC16_2 New Net Name=NetC11_2
+Change Net Name : Old Net Name=NetC18_2 New Net Name=NetC13_2
+Change Net Name : Old Net Name=NetC19_2 New Net Name=NetC12_2
+Change Net Name : Old Net Name=NetC20_2 New Net Name=NetC14_2
+Change Net Name : Old Net Name=NetC21_1 New Net Name=NetC20_1
+Change Net Name : Old Net Name=NetH1_3 New Net Name=NetP2_3
+Change Net Name : Old Net Name=NetH1_4 New Net Name=NetP2_4
+Change Net Name : Old Net Name=NetH2_1 New Net Name=NetP1_1
+Change Net Name : Old Net Name=NetH2_3 New Net Name=NetP1_3
+Change Net Name : Old Net Name=NetR11_1 New Net Name=NetR10_1
+Change Net Name : Old Net Name=NetR16_1 New Net Name=NetR11_1
+Change Net Name : Old Net Name=NetR20_1 New Net Name=NetR15_1
+Change Net Name : Old Net Name=NetR24_1 New Net Name=NetR18_1
+Added Pin To Net: NetName=NetBT1_1 Pin=BT1-1
+Added Pin To Net: NetName=NetBT1_1 Pin=D2-2
+Added Pin To Net: NetName=NetBT1_1 Pin=R1-2
+Added Net: Name=NetBT1_1
+Added Pin To Net: NetName=NetBT2_1 Pin=BT2-1
+Added Pin To Net: NetName=NetBT2_1 Pin=D6-1
+Added Pin To Net: NetName=NetBT2_1 Pin=R2-2
+Added Net: Name=NetBT2_1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=C4-2
+Added Pin To Net: NetName=NetC2_2 Pin=U5-1
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=C5-1
+Added Pin To Net: NetName=NetC3_1 Pin=U6-1
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=D1-2
+Added Pin To Net: NetName=NetC6_2 Pin=U5-3
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC13_1 Pin=C13-1
+Added Net: Name=NetC13_1
+Added Pin To Net: NetName=NetC14_1 Pin=C14-1
+Added Net: Name=NetC14_1
+Added Pin To Net: NetName=NetC16_1 Pin=C16-1
+Added Pin To Net: NetName=NetC16_1 Pin=Q1-1
+Added Pin To Net: NetName=NetC16_1 Pin=R24-2
+Added Net: Name=NetC16_1
+Added Pin To Net: NetName=NetC20_2 Pin=C20-2
+Added Pin To Net: NetName=NetC20_2 Pin=R22-2
+Added Pin To Net: NetName=NetC20_2 Pin=U1-1
+Added Net: Name=NetC20_2
+Added Pin To Net: NetName=NetD3_1 Pin=J1-3
+Added Pin To Net: NetName=NetD3_1 Pin=J1-4
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=NetD7_2 Pin=R6-1
+Added Pin To Net: NetName=NetD7_2 Pin=U2-3
+Added Pin To Net: NetName=NetD7_2 Pin=U1-5
+Added Net: Name=NetD7_2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=R24-1
+Added Pin To Net: NetName=NetR4_1 Pin=U2-1
+Added Pin To Net: NetName=NetR4_1 Pin=U1-6
+Added Net: Name=NetR4_1
+Added Member To Class: ClassName=AC Power Supply Member=Component BT1 SMD Vert 1.25mm
+Added Member To Class: ClassName=AC Power Supply Member=Component BT2 SMD Vert 1.25mm
+Added Member To Class: ClassName=AC Power Supply Member=Component C2 470uF/35V
+Added Member To Class: ClassName=AC Power Supply Member=Component C3 470uF/35V
+Added Member To Class: ClassName=AC Power Supply Member=Component C4 470uF/35V
+Added Member To Class: ClassName=AC Power Supply Member=Component C5 470uF/35V
+Added Member To Class: ClassName=AC Power Supply Member=Component C6 220nF
+Added Member To Class: ClassName=AC Power Supply Member=Component C7 220nF
+Added Member To Class: ClassName=Power Management Member=Component C16 220nF
+Added Member To Class: ClassName=Power Management Member=Component C17 220nF
+Added Member To Class: ClassName=Power Management Member=Component C21 220nF
+Added Member To Class: ClassName=Main Member=Component R14 1K5
+Added Member To Class: ClassName=Power Management Member=Component R24 270K
+Added Member To Class: ClassName=Main Member=Component U1 NJM2903M
+Added Member To Class: ClassName=AC Power Supply Member=Component U5 MC7812CDTG
+Added Member To Class: ClassName=AC Power Supply Member=Component U6 MC7812CDTG
+Added Room: Name=AC Power Supply
+Added Room: Name=Main
+Added Room: Name=Power Management

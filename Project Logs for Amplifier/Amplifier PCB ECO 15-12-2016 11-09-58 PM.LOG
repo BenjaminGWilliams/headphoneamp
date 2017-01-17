@@ -1,0 +1,87 @@
+Removed Pin From Net: NetName=GND Pin=BT1-2
+Removed Pin From Net: NetName=GND Pin=BT2-1
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=J1-1
+Removed Pin From Net: NetName=NetD1_1 Pin=J1-5
+Removed Pin From Net: NetName=NetC1_2 Pin=VR1-1
+Removed Pin From Net: NetName=GND Pin=VR1-2
+Removed Pin From Net: NetName=GND Pin=VR2-2
+Removed Member From Class: ClassName=AC Power Supply Member=BT1
+Removed Member From Class: ClassName=AC Power Supply Member=BT2
+Removed Member From Class: ClassName=AC Power Supply Member=C3
+Removed Member From Class: ClassName=AC Power Supply Member=C6
+Removed Member From Class: ClassName=AC Power Supply Member=VR1
+Removed Member From Class: ClassName=AC Power Supply Member=VR2
+Change Component Footprint: Designator=U1 Old Footprint=NJM2903 New Footprint=NJM2903M
+Change Component Comment : Designator=U1 Old Comment=NJM2903D New Comment=NJM2903M
+Change Component Comment : Designator=J1 Old Comment=Phonejack2 TN New Comment=163-7620-E
+Added Component: Designator=C1(EEE-FK1V471SP)
+Added Component: Designator=C1(EEE-FK1V471SP)
+Added Component: Designator=C1(EEE-FK1V471SP)
+Added Component: Designator=C1(EEE-FK1V471SP)
+Added Component: Designator=C??(CAPC1608L)
+Added Component: Designator=C??(CAPC1608L)
+Added Component: Designator=D1(S1BB-13-F)
+Added Component: Designator=D4(S1BB-13-F)
+Added Component: Designator=H?(SD-53398-0219)
+Added Component: Designator=H?(SD-53398-0219)
+Added Component: Designator=J?(1613_14)
+Added Component: Designator=S1(PN22SJSA03QE)
+Added Component: Designator=U?(MC7812CDTRKG)
+Added Component: Designator=U?(MC7812CDTRKG)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C??-1
+Added Pin To Net: NetName=GND Pin=C??-2
+Added Pin To Net: NetName=GND Pin=H?-2
+Added Pin To Net: NetName=GND Pin=H?-2
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=NetD1_1 Pin=J?-3
+Added Pin To Net: NetName=NetD1_1 Pin=J?-4
+Added Pin To Net: NetName=NetC1_2 Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=U?-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC??_1 Pin=C??-1
+Added Pin To Net: NetName=NetC??_1 Pin=D5-1
+Added Pin To Net: NetName=NetC??_1 Pin=U?-3
+Added Net: Name=NetC??_1
+Added Pin To Net: NetName=NetC??_2 Pin=C??-2
+Added Pin To Net: NetName=NetC??_2 Pin=D2-2
+Added Pin To Net: NetName=NetC??_2 Pin=U?-3
+Added Net: Name=NetC??_2
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=H?-1
+Added Pin To Net: NetName=NetD3_2 Pin=R1-2
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetD4_3 Pin=J1-1
+Added Net: Name=NetD4_3
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_1 Pin=H?-1
+Added Pin To Net: NetName=NetD6_1 Pin=R2-2
+Added Net: Name=NetD6_1
+Added Member To Class: ClassName=AC Power Supply Member=Component C1 470uF/35V
+Added Member To Class: ClassName=AC Power Supply Member=Component C1 470uF/35V
+Added Member To Class: ClassName=AC Power Supply Member=Component C1 470uF/35V
+Added Member To Class: ClassName=AC Power Supply Member=Component C1 470uF/35V
+Added Member To Class: ClassName=AC Power Supply Member=Component C?? 220nF
+Added Member To Class: ClassName=AC Power Supply Member=Component C?? 220nF
+Added Member To Class: ClassName=AC Power Supply Member=Component D1 S1BB-13-F
+Added Member To Class: ClassName=AC Power Supply Member=Component D4 S1BB-13-F
+Added Member To Class: ClassName=AC Power Supply Member=Component H? SMD Vert 1.25mm
+Added Member To Class: ClassName=AC Power Supply Member=Component H? SMD Vert 1.25mm
+Added Member To Class: ClassName=AC Power Supply Member=Component J? Power Skt
+Added Member To Class: ClassName=AC Power Supply Member=Component S1 PN22SJSA03QE
+Added Member To Class: ClassName=AC Power Supply Member=Component U? MC7812CDTG
+Added Member To Class: ClassName=AC Power Supply Member=Component U? MC7812CDTG
+Added Room: Name=AC Power Supply
+Added Room: Name=Main
+Added Room: Name=Power Management
