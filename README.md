@@ -39,6 +39,10 @@ On/Off. Two pole switch (as two batteries).
 - LED
 Normal forward current is around 20mA (same as rest of amp!). High efficiency sufficiently visible with 20 mA. Powered symmeterically from rails (18V to 24V). This is to make batteries drain at same rate
 
+#### Schematic for AC Power Supply
+
+![alt tag](https://raw.githubusercontent.com/VladimirComputin/headphoneamp/master/Photos/ACPowerSupply.PNG)
+
 ### Power Management
 
 To shutdown amp with 9V bates drop to around 6-7V. Circuit prevents potentially damaging headphones with DC.
@@ -69,6 +73,10 @@ Ground reference 0.22uF decoupling (bypass) caps for the output stage
 
 - C10
 input stage decoupling (bypass) caps and is not ground referenced. Ease of ground routing
+
+#### Schematic for Power Management
+
+![alt tag](https://raw.githubusercontent.com/VladimirComputin/headphoneamp/master/Photos/PowerManagement.PNG)
 
 ### Main board
 
@@ -121,6 +129,9 @@ prove DC bias for output op amps. Large value to push low freq roll off from C13
 Output stage
 Parallel two devices in each IC and used dedicated IC for each channel: 2x peak current better channel isolation from high currents involed, lower distortion, 2x thermal dissipation
 
+#### Schematic for Main Board
+
+![alt tag](https://raw.githubusercontent.com/VladimirComputin/headphoneamp/master/Photos/MainBoard.PNG)
 
 ## Other Notes
 
